@@ -25,3 +25,10 @@ The board is an Arduino standard overlay and is also compatible with Digilent Zy
 
 ![](/images/Test2.png)
 
+
+Copyright Tom (signalius@pm.me) 2018.
+
+## Disclaimer
+
+This project is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+
