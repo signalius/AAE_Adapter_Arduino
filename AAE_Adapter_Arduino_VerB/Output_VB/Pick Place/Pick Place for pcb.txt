@@ -1,0 +1,83 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+J_VNN      SMTC-SSW-104-01-X-D   1065.748mil    1492.52mil   1015.748mil    1342.52mil   1015.748mil    1342.52mil  T         90.00 SSW-104-01-F-D 
+IC51       AMS-QFN-12-4000X4000DE-2125X2125TP_L   1598.425mil    1421.26mil   1598.425mil    1421.26mil   1518.701mil   1452.756mil  T          0.00 MD1213         
+IC41       AMS-QFN-12-4000X4000DE-2125X2125TP_L   1602.362mil    818.898mil   1602.362mil    818.898mil   1522.638mil    850.394mil  T          0.00 MD1213         
+IC52       SOT89             2288.384mil   1267.716mil   2350.394mil   1267.716mil   2281.494mil   1326.776mil  T        270.00 MD0100N8       
+IC42       SOT89             2315.943mil    637.795mil   2377.953mil    637.795mil   2309.053mil    696.855mil  T        270.00 MD0100N8       
+D3         NXP-SOD323_V       448.819mil    748.032mil    448.819mil    748.032mil    448.819mil    791.339mil  T        270.00 PDZ10B         
+C55        CAPC0805(2012)75_N   1700.787mil   1590.551mil   1700.787mil   1590.551mil   1700.787mil   1625.984mil  T        270.00 1uF            
+C54        CAPC0805(2012)75_N   1614.173mil   1590.551mil   1614.173mil   1590.551mil   1614.173mil   1625.984mil  T        270.00 100nF          
+C45        CAPC0805(2012)75_N   1724.409mil   1003.937mil   1724.409mil   1003.937mil   1724.409mil    1039.37mil  T        270.00 1uF            
+C44        CAPC0805(2012)75_N   1622.047mil   1003.937mil   1622.047mil   1003.937mil   1622.047mil    1039.37mil  T        270.00 100nF          
+J_VPP      SMTC-SSW-103-01-X-D   1069.685mil   1025.197mil   1019.685mil    925.197mil   1019.685mil    925.197mil  T         90.00 SSW-103-01-F-D 
+R51        RESC0805(2012)_L   2413.386mil    385.827mil   2413.386mil    385.827mil   2379.921mil    385.827mil  T        360.00 1k             
+R41        RESC0805(2012)_L   2133.858mil    389.764mil   2133.858mil    389.764mil   2100.394mil    389.764mil  T        360.00 1k             
+D51        INF-SOT323_M      2334.646mil    468.504mil   2334.646mil    468.504mil   2292.323mil    494.094mil  T          0.00 BAV99W         
+D41        INF-SOT323_M      2055.118mil    472.441mil   2055.118mil    472.441mil   2012.795mil    498.031mil  T          0.00 BAV99W         
+C53        CAPC1206(3216)190_N   2019.685mil   1633.858mil   2019.685mil   1633.858mil    2078.74mil   1633.858mil  T        180.00 1uF            
+C52        CAPC1206(3216)190_N   2003.937mil   1291.339mil   2003.937mil   1291.339mil   1944.882mil   1291.339mil  T          0.00 1uF            
+C51        CAPC0805(2012)75_N   1830.709mil   1488.189mil   1830.709mil   1488.189mil   1866.142mil   1488.189mil  T        180.00 10nF 250V      
+C50        CAPC0805(2012)75_N   1830.709mil   1389.764mil   1830.709mil   1389.764mil   1866.142mil   1389.764mil  T        180.00 10nF 250V      
+C43        CAPC1206(3216)190_N    2039.37mil   1011.811mil    2039.37mil   1011.811mil   2098.425mil   1011.811mil  T        180.00 1uF            
+C42        CAPC1206(3216)190_N   2023.622mil    685.039mil   2023.622mil    685.039mil   1964.567mil    685.039mil  T        360.00 1uF            
+C41        CAPC0805(2012)75_N    1842.52mil    877.953mil    1842.52mil    877.953mil   1877.953mil    877.953mil  T        180.00 10nF 250V      
+C40        CAPC0805(2012)75_N   1838.583mil    775.591mil   1838.583mil    775.591mil   1874.016mil    775.591mil  T        180.00 10nF 250V      
+T1         SO08               228.346mil    700.787mil    228.346mil    700.787mil    330.707mil    625.787mil  T         90.00 Si4401FDY      
+R3         RESC0603(1608)_N   1228.347mil   1834.646mil   1228.347mil   1834.646mil   1228.347mil   1866.142mil  T        270.00 22k            
+D_Vnn      LTST-C190KSKT_V   1259.842mil   1712.598mil   1259.842mil   1712.598mil    1289.37mil   1712.598mil  T        180.00 LED 0603 Green 
+C5         MURA-GRM-55D_V    1015.748mil    728.346mil   1015.748mil    728.346mil    905.512mil    728.346mil  T        360.00 22uF           
+IOH        SMTC-SSW-110-03-X-S       1190mil       2000mil       1640mil       2000mil       1640mil       2000mil  T        180.00 SSW-110-03-G-S 
+R8         RESC0805(2012)_L     803.15mil    649.606mil     803.15mil    649.606mil     803.15mil    683.071mil  T        270.00 1.5k           
+R9         RESC0805(2012)_L     696.85mil    594.488mil     696.85mil    594.488mil    663.386mil    594.488mil  T        360.00 10k            
+R6         RESC0805(2012)_L    531.496mil    748.032mil    531.496mil    748.032mil    531.496mil    714.567mil  T         90.00 10k            
+IOL        SMTC-SSQ-108-01-X-S       2150mil       2000mil       2500mil       2000mil       2500mil       2000mil  T        180.00 SSQ-108-01-F-S 
+R2         RESC0603(1608)_N   1110.236mil   1232.284mil   1110.236mil   1232.284mil    1078.74mil   1232.284mil  T        360.00 22k            
+R1         RESC0603(1608)_N    1736.22mil    574.803mil    1736.22mil    574.803mil    1736.22mil    606.299mil  T        270.00 1k             
+D_Vpp      LTST-C190KSKT_V   1259.842mil   1181.102mil   1259.842mil   1181.102mil   1230.315mil   1181.102mil  T        360.00 LED 0603 Green 
+D_5V       LTST-C190KSKT_V   1704.725mil    433.071mil   1704.725mil    433.071mil   1734.252mil    433.071mil  T        180.00 LED 0603 Green 
+R40        RESC0805(2012)_L       2420mil        790mil       2420mil        790mil   2386.535mil        790mil  T          0.00 200            
+PWR_IN     CUI-PJ-002A_V          350mil     207.48mil        350mil        300mil     468.11mil        300mil  T        180.00 PJ-002A        
+C3         CAPC0805(2012)75_N   1468.504mil    433.071mil   1468.504mil    433.071mil   1468.504mil    397.638mil  T         90.00 47uF           
+L1         XPL2010            1381.89mil    496.063mil    1381.89mil    496.063mil    1381.89mil    522.638mil  T        270.00 3.3uH          
+D2         DO214AC_BIDIR      736.221mil    350.531mil    736.221mil    350.394mil    736.221mil    270.669mil  T         90.00 TVS 20V        
+C4         CAPC0805(2012)75_N   1547.244mil    433.071mil   1547.244mil    433.071mil   1547.244mil    397.638mil  T         90.00 100nF          
+IC1        DGK8_N            1177.165mil    503.937mil   1177.165mil    503.937mil   1094.488mil    542.323mil  T        360.00 TPS62160       
+J6         SMTC-SSW-103-01-X-D       2555mil       1098mil       2505mil       1198mil       2505mil       1198mil  B        270.00 SSW-103-01-F-D 
+ADC_CH1    SMTC-PHF-102-03-X-S       2050mil    232.284mil       2000mil    232.284mil       2000mil    232.284mil  T        360.00 PHF-102-03-L-S 
+ADC_CH2    SMTC-PHF-102-03-X-S   2329.528mil    232.284mil   2279.528mil    232.284mil   2279.528mil    232.284mil  T        360.00 PHF-102-03-L-S 
+T2         DIOD-SOT323-3_V    692.913mil    704.724mil    692.913mil    704.724mil    730.315mil    679.134mil  T        180.00 BC817          
+R7         RESC0805(2012)_L    633.858mil    791.339mil    633.858mil    791.339mil    667.323mil    791.339mil  T        180.00 1.5k           
+DCDC_NN    NMT1272SC          487.795mil   1366.142mil    137.795mil   1366.142mil    137.795mil   1366.142mil  T        360.00 NMT1272SC      
+DCDC_PP    NMT1272SC          487.795mil     921.26mil    137.795mil     921.26mil    137.795mil     921.26mil  T        360.00 NMT1272SC      
+C6         MURA-GRM-55D_V    1003.937mil   1830.709mil   1003.937mil   1830.709mil   1114.173mil   1830.709mil  T        180.00 22uF           
+IC50       SO08              2062.992mil   1464.567mil   2062.992mil   1464.567mil   1960.632mil   1539.567mil  T        270.00 TC6320TG       
+IC40       SO08              2082.677mil    850.394mil   2082.677mil    850.394mil   1980.317mil    925.394mil  T        270.00 TC6320TG       
+D40        INF-SOT323_M      2311.024mil    830.709mil   2311.024mil    830.709mil   2336.614mil    873.032mil  T        270.00 BAV99W         
+D50        INF-SOT323_M      2311.023mil   1489.567mil   2311.024mil   1489.567mil   2285.433mil   1447.244mil  T         90.00 BAV99W         
+R50        RESC0805(2012)_L   2311.024mil   1625.984mil   2311.024mil   1625.984mil   2311.024mil    1592.52mil  T         90.00 200            
+CH1        CON-SMA-EDGE062       2620mil        790mil       2620mil        790mil       2620mil        790mil  T        360.00 CONSMA003.062  
+CH2        CON-SMA-EDGE062       2520mil       1730mil       2520mil       1730mil       2520mil       1730mil  T        360.00 CONSMA003.062  
+R42        RESC0805(2012)_L   2244.094mil   1811.024mil   2244.095mil   1811.024mil   2277.559mil   1811.024mil  T        180.00 100            
+R43        RESC0805(2012)_L   2122.047mil   1811.024mil   2122.047mil   1811.024mil   2088.583mil   1811.024mil  T        360.00 100            
+R44        RESC0805(2012)_L       2000mil   1811.024mil       2000mil   1811.024mil   2033.465mil   1811.024mil  T        180.00 100            
+R45        RESC0805(2012)_L       2000mil    1881.89mil       2000mil    1881.89mil   2033.465mil    1881.89mil  T        180.00 10k            
+R46        RESC0805(2012)_L   2122.047mil    1881.89mil   2122.047mil    1881.89mil   2088.583mil    1881.89mil  T        360.00 10k            
+R47        RESC0805(2012)_L   2244.094mil    1881.89mil   2244.095mil    1881.89mil   2277.559mil    1881.89mil  T        180.00 10k            
+R52        RESC0805(2012)_L   1870.079mil   1811.024mil   1870.079mil   1811.024mil   1836.614mil   1811.024mil  T        360.00 100            
+R53        RESC0805(2012)_L   1751.968mil   1811.024mil   1751.968mil   1811.024mil   1785.433mil   1811.024mil  T        180.00 100            
+R54        RESC0805(2012)_L   1633.858mil   1811.024mil   1633.858mil   1811.024mil   1600.394mil   1811.024mil  T        360.00 100            
+R55        RESC0805(2012)_L   1633.858mil    1881.89mil   1633.858mil    1881.89mil   1600.394mil    1881.89mil  T        360.00 10k            
+R56        RESC0805(2012)_L   1751.968mil    1881.89mil   1751.968mil    1881.89mil   1785.433mil    1881.89mil  T        180.00 10k            
+R57        RESC0805(2012)_L   1870.079mil    1881.89mil   1870.079mil    1881.89mil   1836.614mil    1881.89mil  T        360.00 10k            
+EXT_PWR    SMTC-PHF-102-03-X-S   1750.787mil    232.284mil   1700.787mil    232.284mil   1700.787mil    232.284mil  T        360.00 PHF-102-03-L-S 
+D1         VISH-DO-214AC-2_V    606.299mil    326.772mil    606.299mil    326.772mil    606.299mil    256.299mil  T         90.00 SK54           
+R4         RESC0805(2012)_L   1295.275mil    389.764mil   1295.276mil    389.764mil    1328.74mil    389.764mil  T        180.00 261k           
+R5         RESC0805(2012)_L   1177.165mil    389.764mil   1177.165mil    389.764mil    1210.63mil    389.764mil  T        180.00 100k           
+C1         MURA-GRM-55D_V     917.323mil    338.583mil    917.323mil    338.583mil    917.323mil    228.346mil  T         90.00 68uF           
+C2         CAPC0805(2012)75_N    913.386mil    551.181mil    913.386mil    551.181mil    913.386mil    586.614mil  T        270.00 100nF          
+C7         CAPC0805(2012)75_N   2165.354mil   1220.472mil   2165.354mil   1220.472mil   2200.787mil   1220.472mil  T        180.00 100nF          
+C8         CAPC0805(2012)75_N   2208.661mil   1133.858mil   2208.661mil   1133.858mil   2173.228mil   1133.858mil  T        360.00 100nF          
+AN         SMTC-SSW-106-02-X-S       2250mil        100mil       2000mil        100mil       2000mil        100mil  T        360.00 SSW-106-02-G-S 
+POWER      SMTC-SSQ-108-01-X-S       1450mil        100mil       1100mil        100mil       1100mil        100mil  T        360.00 SSQ-108-01-F-S 
+
