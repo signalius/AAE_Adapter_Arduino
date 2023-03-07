@@ -10,12 +10,14 @@ Note: the board contains several errors and should not be used. Wait for a newer
 
 ![](/images/pcb.png)
 
-# Main components
+### Description
+
+The board is an Arduino standard overlay and is also compatible with Digilent Zynq boards that have an Arudino connector. For some applications a high switching speed is needed so the FPGA is much more suitable than a regular Arduino. 
+
+### Main components
 
 * MD1213 is a high speed, dual MOSFET driver. It is designed to drive high voltage P and N-channel MOSFET transistors 
 * DN2625 is a low threshold depletion-mode (normally-on) transistor
-
-The board is an Arduino standard overlay and is also compatible with Digilent Zynq boards that have an Arudino connector. For some applications a high switching speed is needed so the FPGA is much more suitable than a regular Arduino. 
 
 ### Tests TX and RX
 
