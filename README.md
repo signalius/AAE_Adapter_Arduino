@@ -17,3 +17,9 @@ Note: the board contains several errors and should not be used. Wait for a newer
 
 The board is an Arduino standard overlay and is also compatible with Digilent Zynq boards that have an Arudino connector. For some applications a high switching speed is needed so the FPGA is much more suitable than a regular Arduino. 
 
+### Tests TX and RX
+
+![](/images/Test1.png)
+
+![](/images/Test2.png)
+
